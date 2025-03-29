@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff6e96&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=ff6e96&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Wesley+Alves;I'm+49+years+old;I'm+from+Uberlandia,+Brazil;I'm+an+Application+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&color=ff6e96&size=35&center=true&vCenter=true&width=1000&size=36&height=40&multilines=true&lines=Hello,+my+name+is+Wesley+Alves;I'm+50+years+old;I'm+from+Uberlandia,+Brazil;I'm+an+Application+Developer)](https://git.io/typing-svg)
 
 <div align="center">
 <h2>📈 Github Statistics 📉</h2>
@@ -14,10 +14,10 @@
 <div align="center">
 <h2>⚜ My Skills ⚜</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,react,python,golang,nodejs,kotlin,figma)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,react,python,nodejs,kotlin,figma)](#)
 
 
- 🎓 Atualmente estou estudando golang. <br>
+ 🎓 Atualmente estou estudando Visão Computacional. <br>
  🎓 Sou Técnico em Desenvolvimento de Sistemas. <br>
  📫 Contacte-me no email: wesleycalves1@gmail.com <br>
 
